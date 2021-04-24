@@ -14,4 +14,5 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Chinmay's github stats](https://github-readme-stats.vercel.app/api?username=Chinmay-Vadgama)](https://github.com/Chinmay-Vadgama)
+<!--[![Chinmay's github stats](https://github-readme-stats.vercel.app/api?username=Chinmay-Vadgama)](https://github.com/Chinmay-Vadgama)
+-->
