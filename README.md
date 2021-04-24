@@ -1,4 +1,4 @@
-:coffee: **Learning** :coffee:
+:coffee: **L-Earning** :coffee:
 
 <!--
 **Chinmay-Vadgama/Chinmay-Vadgama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
