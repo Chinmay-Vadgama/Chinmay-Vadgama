@@ -2,7 +2,7 @@
 
 💬 Ask me about : NLP, ML, DL, DS & Algo.
 
-🔭 I’m currently working on creating something useful using GDELT project data.
+🔭 I’m currently working on creating something useful using GDELT project data. : https://www.gdeltproject.org/
 
 📫 How to reach me: Linkedin
 <!--
