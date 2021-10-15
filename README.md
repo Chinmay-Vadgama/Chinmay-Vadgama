@@ -1,10 +1,5 @@
 :coffee: **Learning** :coffee:
 
-💬 Ask me about : NLP, ML, DL, DS & Algo.
-
-🔭 I’m currently working on creating something useful using GDELT project data. : https://www.gdeltproject.org/
-
-📫 How to reach me: Linkedin
 <!--
 **Chinmay-Vadgama/Chinmay-Vadgama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
